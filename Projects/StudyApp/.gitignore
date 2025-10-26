@@ -1,3 +1,6 @@
+# Use of .gitignore
+# Only real code and docs are tracked, ignores junk files, keeps sensitive files private, faster comits and pushes, clean predictable environments.
+
 # Node / Next.js
 node_modules/
 .next/
